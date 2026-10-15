@@ -1,0 +1,10 @@
+{
+  "name": "NeonFit AR - เกมการ์ดโมชั่นออกกำลังกาย",
+  "description": "เกม AR Motion capture Flashcard เปิดไพ่สุ่มท่าออกกำลังกาย พร้อมตรวจจับท่าทางและนับคะแนนเรียลไทม์",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
